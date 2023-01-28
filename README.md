@@ -31,6 +31,12 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>Redux
     </td>
+    </td> 
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
+      </a>
+      <br>Node.js
     </td>
     <tr>
     <td align="center" width="100">
@@ -57,20 +63,7 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>Figma
     </td>
-  </tr>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
-      </a>
-      <br>Node.js
-    </td>
-   <td align="center" width="100">
-   <a href="#">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
-   </a>
-  <br>Github
-   </td>
-  </tr>
+
 <tr>
     <td align="center" width="100">
       <a href="#">
@@ -90,4 +83,13 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>ES6
     </td>
+      </tr>
+ 
+   <td align="center" width="100">
+   <a href="#">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
+   </a>
+  <br>Github
+   </td>
+  </tr>
 </table>
