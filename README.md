@@ -24,25 +24,7 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>CSS3
     </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Sass" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" width="50" height="50" alt="JavaScript" />
       </a>
@@ -104,40 +86,18 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>PostgresSQL
     </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MongoDB
-    </td>
    <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>Express
     </td>
-   <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Typescript
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>WordPress
-    </td>
+
+
   <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>ES6
     </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Photoshop
-  </tr>
 </table>
