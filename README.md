@@ -1,7 +1,7 @@
 ![](https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674948023/jjeir9lqhxxeejia56hv.png)
 
+## 🌱 Sobre mi
 
-## 🌱 Sobre mi  
 Soy un desarrolladora web con experiencia en el stack de tecnologías PERN (PostgreSQL, Express, React y Node.js). Me especializo en la
 creación de aplicaciones web escalables y altamente funcionales, utilizando las últimas tendencias y mejores prácticas en programación. Siempre busco aprender y mejorar, y estoy comprometido a proporcionar soluciones creativas y de calidad.
 
@@ -10,6 +10,7 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
  <h2 align="left" id="macropower-tech">💻Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
+
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -64,14 +65,6 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>Node.js
     </td>
-    
-
-  <td align="center" width="100">
-   <a href="#">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
- </a>
-   <br>Git
-  </td>
    <td align="center" width="100">
    <a href="#">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
@@ -92,7 +85,6 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>Express
     </td>
-
 
   <td align="center" width="100">
       <a href="#">
