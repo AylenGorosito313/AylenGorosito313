@@ -12,14 +12,14 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
 > Tools, languages, and other things that I like to work with.
 
 <table align="center">
-  <tr>  
-  <tr>
+    <tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
+    <tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
@@ -45,8 +45,7 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       <br>Figma
     </td>
   </tr>
-
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="JavaScript" />
       </a>
