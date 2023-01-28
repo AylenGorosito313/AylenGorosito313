@@ -38,7 +38,6 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       <br>Figma
     </td>
   </tr>
-  
   <tr>
     <td align="center" width="100">
       <a href="#">
@@ -85,8 +84,7 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>Express
     </td>
-
-  <td align="center" width="100">
+ <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
       </a>
