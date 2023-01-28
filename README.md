@@ -58,8 +58,7 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       <br>Figma
     </td>
   </tr>
-  
-    <td align="center" width="100">
+  <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
       </a>
