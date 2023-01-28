@@ -83,13 +83,14 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>ES6
     </td>
-      </tr>
- 
-   <td align="center" width="100">
+       <td align="center" width="100">
    <a href="#">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
    </a>
   <br>Github
    </td>
+      </tr>
+ 
+
   </tr>
 </table>
