@@ -19,6 +19,19 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       </a>
       <br>JavaScript
     </td>
+      <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>React
+    </td> 
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    </td>
     <tr>
     <td align="center" width="100">
       <a href="#">
@@ -45,19 +58,7 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
       <br>Figma
     </td>
   </tr>
-   <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    </td>
+  
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
