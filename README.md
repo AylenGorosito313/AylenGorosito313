@@ -5,9 +5,8 @@
 Soy un desarrolladora web con experiencia en el stack de tecnologías PERN (PostgreSQL, Express, React y Node.js). Me especializo en la
 creación de aplicaciones web escalables y altamente funcionales, utilizando las últimas tendencias y mejores prácticas en programación. Siempre busco aprender y mejorar, y estoy comprometida a proporcionar soluciones creativas y de calidad.
 
-Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
 
- <h2 align="left" id="macropower-tech">💻Favorite Tech</h2>
+ <h2 align="left" id="macropower-tech">💻Tecnologias </h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -98,6 +97,10 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
 
 ## Contacto
 <div align="center">
+
+<a href="https://www.behance.net/aylengorosito" target="_blank">
+<img src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976892/soswufwppls9vpcbstzo.png   alt=instagram style="margin-bottom: 5px;" />
+</a>  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aylen-gorosito-a252a5243//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/aylengorosito)  
 </div>  
