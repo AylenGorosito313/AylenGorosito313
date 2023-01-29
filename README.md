@@ -101,7 +101,7 @@ creación de aplicaciones web escalables y altamente funcionales, utilizando las
 <img src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976892/soswufwppls9vpcbstzo.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="www.linkedin.com/in/aylengorosito" target="_blank">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/aylen-gorosito-a252a5243//" target="_blank">
 <img src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976888/jhqtgyswtvvhqvekyged.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
