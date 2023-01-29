@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674955458/yzq28bbvkd0mhyv58asu.png)
+![](https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674978974/n6ns09c3iyplkeyzeh0s.png)
 
 
 ## 🌱 Sobre mi
