@@ -1,6 +1,6 @@
 ![](https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674955458/yzq28bbvkd0mhyv58asu.png)
 
-<div  background = "#fff">
+<div  style="background: #fff;">
 ## 🌱 Sobre mi
 
 Soy una desarrolladora web con experiencia en el stack de tecnologías PERN (PostgreSQL, Express, React y Node.js). Me especializo en la
