@@ -2,8 +2,8 @@
 
 ## 🌱 Sobre mi
 
-Soy un desarrolladora web con experiencia en el stack de tecnologías PERN (PostgreSQL, Express, React y Node.js). Me especializo en la
-creación de aplicaciones web escalables y altamente funcionales, utilizando las últimas tendencias y mejores prácticas en programación. Siempre busco aprender y mejorar, y estoy comprometida a proporcionar soluciones creativas y de calidad.
+Soy una desarrolladora web con experiencia en el stack de tecnologías PERN (PostgreSQL, Express, React y Node.js). Me especializo en la
+creación de aplicaciones web,  utilizando las últimas tendencias y mejores prácticas en programación. Siempre busco aprender y mejorar. 
 
  <h2 align="left" id="macropower-tech">💻Tecnologias </h2>
 
