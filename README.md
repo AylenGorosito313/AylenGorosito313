@@ -97,7 +97,7 @@ creación de aplicaciones web escalables y altamente funcionales, utilizando las
 
 <div align="center">
 
-<a href="https://www.behance.net/aylengorosito" target="_blank">
+<a href="www.linkedin.com/in/aylengorosito" target="_blank">
 <img src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976892/soswufwppls9vpcbstzo.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
