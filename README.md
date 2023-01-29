@@ -103,7 +103,7 @@ creación de aplicaciones web,  utilizando las últimas tendencias y mejores pr�
 </a>
 
 <a href="https://www.linkedin.com/in/aylen-gorosito-a252a5243/" target="_blank">
-<img  with="100px" height="40px"  src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976888/jhqtgyswtvvhqvekyged.png   alt=instagram style="margin-bottom: 5px;" />
+<img  with="100px" height="20px"  src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976888/jhqtgyswtvvhqvekyged.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>
