@@ -7,7 +7,7 @@ creación de aplicaciones web escalables y altamente funcionales, utilizando las
 
  <h2 align="left" id="macropower-tech">💻Tecnologias </h2>
 
->  Herramientas, idiomas y otras cosas con las que me gusta trabajar.
+> Tools, languages, and other things that I like to work with.
 
 <table align="center">
     <tr>
@@ -97,11 +97,11 @@ creación de aplicaciones web escalables y altamente funcionales, utilizando las
 
 <div align="center">
 
-<a href="www.linkedin.com/in/aylengorosito" target="_blank">
+<a href="https://www.behance.net/aylengorosito" target="_blank">
 <img src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976892/soswufwppls9vpcbstzo.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/aylen-gorosito-a252a5243//" target="_blank">
+<a href="www.linkedin.com/in/aylengorosito" target="_blank">
 <img src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976888/jhqtgyswtvvhqvekyged.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
