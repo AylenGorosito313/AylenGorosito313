@@ -94,3 +94,11 @@ Habilidades: REACT / JS / HTML / CSS / NODE / PostgreSQL
 
   </tr>
 </table>
+
+
+## Contacto
+<div align="center">
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aylen-gorosito-a252a5243//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/aylengorosito) 
+
+<div align="center"><img src=[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hnp35jvepmw64r3wyajx2lg2jy&cover_image=true&theme=default&show_offline=false&background_color=050505&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hnp35jvepmw64r3wyajx2lg2jy&redirect=true)/></div>
