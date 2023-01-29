@@ -7,7 +7,7 @@ creación de aplicaciones web escalables y altamente funcionales, utilizando las
 
  <h2 align="left" id="macropower-tech">💻Tecnologias </h2>
 
-> Tools, languages, and other things that I like to work with.
+>  Herramientas, idiomas y otras cosas con las que me gusta trabajar.
 
 <table align="center">
     <tr>
