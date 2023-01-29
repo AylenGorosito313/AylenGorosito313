@@ -93,12 +93,12 @@ creación de aplicaciones web escalables y altamente funcionales, utilizando las
   </tr>
 </table>
 
-## Contacto
+## Otras redes 
 
 <div align="center">
 
 <a href="https://www.behance.net/aylengorosito" target="_blank">
-<img src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976892/soswufwppls9vpcbstzo.png   alt=instagram style="margin-bottom: 5px;" />
+<img with="100px" height="40px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976892/soswufwppls9vpcbstzo.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/aylen-gorosito-a252a5243/" target="_blank">
