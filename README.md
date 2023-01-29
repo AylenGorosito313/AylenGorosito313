@@ -107,7 +107,6 @@ creación de aplicaciones web escalables y altamente funcionales, utilizando las
 
 </div>
 
-</br>
 
 <div align="center">
 
