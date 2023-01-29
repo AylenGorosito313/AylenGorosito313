@@ -98,13 +98,13 @@ creación de aplicaciones web,  utilizando las últimas tendencias y mejores pr�
 
 <div align="center"   >
 <a href="https://www.linkedin.com/in/aylen-gorosito-a252a5243/" target="_blank">
-<img   with="80px" height="30px"  src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976888/jhqtgyswtvvhqvekyged.png   alt=instagram style="margin-bottom: 5px;" />
+<img   with="80px" height="35px"  src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976888/jhqtgyswtvvhqvekyged.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://portfolio-gx4h.vercel.app/" target="_blank">
-<img   with="80px" height="30px"  src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674994754/rb5rzkhztbcf07s6elta.png alt=instagram style="margin-bottom: 5px;" />
+<img   with="80px" height="35px"  src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674994754/rb5rzkhztbcf07s6elta.png alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/aylengorosito" target="_blank">
-<img with="80px" height="30px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976892/soswufwppls9vpcbstzo.png   alt=instagram style="margin-bottom: 5px;" />
+<img with="80px" height="35px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1674976892/soswufwppls9vpcbstzo.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 
