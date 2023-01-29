@@ -93,7 +93,7 @@ creación de aplicaciones web escalables y altamente funcionales, utilizando las
   </tr>
 </table>
 
-## Otras redes 
+## 🌻 Otras redes 
 
 <div align="center">
 
