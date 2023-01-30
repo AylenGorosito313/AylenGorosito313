@@ -3,7 +3,7 @@
 
 ## 🌱 Sobre mi
 
-Soy una desarrolladora web con experiencia en el stack de tecnologías PERN (PostgreSQL, Express, React y Node.js). Me especializo en la creación de aplicaciones web, utilizando las últimas tendencias y mejores prácticas en programación. Fuera del trabajo, disfruto de pasatiempos como la pintura 🎨 , la música 🎹 y la botánica 🌿.
+Soy una desarrolladora web con experiencia en el stack de tecnologías PERN (PostgreSQL, Express, React y Node.js). Me especializo en la creación de aplicaciones web, utilizando las últimas tendencias y mejores prácticas en programación. Fuera del trabajo, disfruto de pasatiempos como la pintura 🎨 , la música 🎹 y la astronomia 🪐.
 
  <h2 align="left" id="macropower-tech">💻Tecnologias </h2>
 
@@ -100,7 +100,7 @@ Soy una desarrolladora web con experiencia en el stack de tecnologías PERN (Pos
 <img height="80px"   src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675094264/lvl5x9fe007t2idgejn4.png alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/aylen-gorosito-a252a5243/" target="_blank">
+<a href="https://www.linkedin.com/in/aylengorosito/" target="_blank">
 <img  height="80px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675093785/upgthyn9fm8jj2hsxjuj.png  alt=instagram style="margin-bottom: 5px;" />
 </a>
 
