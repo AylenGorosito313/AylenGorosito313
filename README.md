@@ -107,7 +107,7 @@ creación de aplicaciones web,  utilizando las últimas tendencias y mejores pr�
 
 
 <a href="https://www.behance.net/aylengorosito" target="_blank">
-<img  height="50px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675093778/e5p5rowpzeue1c6jwpw7.png   alt=instagram style="margin-bottom: 5px;" />
+<img  height="80px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675093778/e5p5rowpzeue1c6jwpw7.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 
