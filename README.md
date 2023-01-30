@@ -98,11 +98,11 @@ creación de aplicaciones web,  utilizando las últimas tendencias y mejores pr�
 
 <div align="center"   >
 <a href="https://portfolio-gx4h.vercel.app/" target="_blank">
-<img    src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675093814/hvbz8rpkeyhrihsttyt5.png alt=instagram style="margin-bottom: 5px;" />
+<img height="80px"   src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675093814/hvbz8rpkeyhrihsttyt5.png alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/aylen-gorosito-a252a5243/" target="_blank">
-<img   src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675093785/upgthyn9fm8jj2hsxjuj.png  alt=instagram style="margin-bottom: 5px;" />
+<img  height="80px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675093785/upgthyn9fm8jj2hsxjuj.png  alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 
