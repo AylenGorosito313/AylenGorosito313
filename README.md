@@ -98,7 +98,7 @@ creación de aplicaciones web,  utilizando las últimas tendencias y mejores pr�
 
 <div align="center"   >
 <a href="https://portfolio-gx4h.vercel.app/" target="_blank">
-<img height="80px"   src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675093814/hvbz8rpkeyhrihsttyt5.png alt=instagram style="margin-bottom: 5px;" />
+<img height="80px"   src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675094264/lvl5x9fe007t2idgejn4.png alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/aylen-gorosito-a252a5243/" target="_blank">
@@ -107,7 +107,7 @@ creación de aplicaciones web,  utilizando las últimas tendencias y mejores pr�
 
 
 <a href="https://www.behance.net/aylengorosito" target="_blank">
-<img  height="80px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675094264/lvl5x9fe007t2idgejn4.png   alt=instagram style="margin-bottom: 5px;" />
+<img  height="80px" src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675094440/tmpxsqlaburc1x6gglan.png   alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 
