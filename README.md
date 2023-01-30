@@ -8,7 +8,7 @@ creación de aplicaciones web,  utilizando las últimas tendencias y mejores pr�
 
  <h2 align="left" id="macropower-tech">💻Tecnologias </h2>
 
-> Herramientas, lenguajes y otras cosas que me gusta trabajar.
+> Herramientas, lenguajes y otras cosas con las que me gusta trabajar.
 
 <table align="center">
     <tr>
