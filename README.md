@@ -96,7 +96,7 @@ Soy una desarrolladora web con experiencia en el stack de tecnologías PERN (Pos
 ## 🌻 Otras redes 
 
 <div align="center"   >
-<a href="https://portfolio-gx4h.vercel.app/" target="_blank">
+<a href="https://aylen-gorosito-portfolio.vercel.app/" target="_blank">
 <img height="80px"   src=https://res.cloudinary.com/dj8p0rdxn/image/upload/v1675094264/lvl5x9fe007t2idgejn4.png alt=instagram style="margin-bottom: 5px;" />
 </a>
 
