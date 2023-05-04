@@ -113,10 +113,10 @@ Soy una desarrolladora web con experiencia en el stack de tecnologías PERN (Pos
 
 </div>
 
-## 🌈 Mi playlist 
+<!-- ## 🌈 Mi playlist 
 
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hnp35jvepmw64r3wyajx2lg2jy&cover_image=true&theme=default&show_offline=false&background_color=050505&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hnp35jvepmw64r3wyajx2lg2jy&redirect=true)
 
-</div>
+</div> -->
